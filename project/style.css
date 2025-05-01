@@ -1,0 +1,58 @@
+*{
+    font-family: "Mona Sans", sans-serif;
+}
+.sign-in{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 16px 48px;
+    font-size: 14px;
+}
+.main-div-img{
+    background-image: url('./images/bg-img.webp');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.bg-img{
+    padding: 80px 80px 0 80px;  
+}
+.main-content h1{
+    font-size: 32px;
+    position: relative;
+    z-index: 2;
+    color: white;
+}
+.main-content span{
+    color: white;
+    font-size: 14px;
+}
+.main-content p{
+    font-size: 14px;
+    color: white;
+}
+
+/* email section  */
+.main-email-section{
+    padding-top: 64px;
+}
+.inner-div{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.inside-inner {
+    h2{
+        font-size: 20px;
+    }
+}
+legend{
+    font-size: 14px;
+}
+.font-size-check-box{
+    font-size: 14px;
+}
+.sign-in-btn{
+    padding: 12px 0;
+}
